@@ -39,7 +39,7 @@ zokou({ nomCom: "dragonball", categorie: "Logo", reaction: "🐉" }, async (dest
         await zk.sendMessage(dest, { text: " *\t Traitement en cours ...*" }, { quoted: ms });
        // var idImg = Object.values(imgInfo)[3];
        
-        await zk.sendMessage(dest, { image: { url: imgInfo.image }, caption: "* \t Logo by Bmw-Md*" }, { quoted: ms });
+        await zk.sendMessage(dest, { image: { url: imgInfo.image }, caption: "* \t Logo by 𝐀𝐍𝐘𝐖𝐀𝐘-Md*" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
@@ -59,7 +59,7 @@ zokou({ nomCom: "naruto", categorie: "Logo", reaction: "⛩" }, async (dest, zk,
         var radio2 = "e0723d60-fc0d-421f-bf8f-a9b9b61e4be6";
         var img = await mumaker.ephoto("https://en.ephoto360.com/naruto-shippuden-logo-style-text-effect-online-808.html", arg.join(' '));
         
-        await zk.sendMessage(dest, { image: { url: img.image }, caption: "\t\t *Logo by Bmw-md*" }, { quoted: ms });
+        await zk.sendMessage(dest, { image: { url: img.image }, caption: "\t\t *Logo by 𝐀𝐍𝐘𝐖𝐀𝐘-md*" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
@@ -156,7 +156,7 @@ zokou({nomCom: "neonlight", categorie: "Logo", reaction: "💡"}, async (dest, z
     let maker=await mumaker.textpro("https://textpro.me/create-glowing-neon-light-text-effect-online-free-1061.html",arg)
     //repondre(stringify(maker))
     /*.then((data) => {*/
-     zk.sendMessage(dest, { image: { url: maker.image }, caption: 'Logo by Bmw-md' }, { quoted: ms });
+     zk.sendMessage(dest, { image: { url: maker.image }, caption: 'Logo by 𝐀𝐍𝐘𝐖𝐀𝐘-md' }, { quoted: ms });
     
     /*.catch(console.error);*/
 
