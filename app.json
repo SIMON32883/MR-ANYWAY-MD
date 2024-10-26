@@ -7,7 +7,7 @@
   "succes_url":"/",
   "stack":"container",
   "env":{
-    "PREFIX":
+    "PREFIX": 
     {
       "description":"choose your prefix of bot",
       "value":".",

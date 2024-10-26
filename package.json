@@ -2,7 +2,7 @@
   "name": "Bmw-md",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "ibrahim.js", 
   "scripts": {
     "test": "node ibrahim.js",
     "s": "node ibrahim.js",
