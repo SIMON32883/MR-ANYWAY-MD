@@ -1,3 +1,0 @@
-const = {./play.js}
-
-         (`Online`)
