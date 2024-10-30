@@ -2,7 +2,7 @@
   "name":"ANYWAY-MD-V1",
   "description":"Best whatsapp bot developed by mr anyway + Baraka Bega",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.imgur.com/TVHDPwX.jpeg",
+  "logo":"https://files.catbox.moe/ir4ejb.png",
   "repository":"https://github.com/SIMON32883/MR-ANYWAY-MD",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.imgur.com/TVHDPwX.jpeg",
+      "value":"https://files.catbox.moe/ir4ejb.png",
       "required":false
        
      },
