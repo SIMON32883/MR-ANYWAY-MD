@@ -44,13 +44,13 @@ const date = moment().format('DD/MM/YYYY');
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *Mr anyway*
-│❒⁠⁠⁠⁠ *DEV2* : *Baraka Bega*
+│❒⁠⁠⁠⁠ *DEV1* : *MR ANYWAY*
+│❒⁠⁠⁠⁠ *DEV2* : *Ibrahim Adams*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Anyway Tech*
+     *ANYWAYTECH1*
 
 ❒────────────────────❒`;
 
