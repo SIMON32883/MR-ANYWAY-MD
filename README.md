@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://files.catbox.moe/ir4ejb.png'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src=''/></a>
 
 
 <p align="center">                                                  𝗔𝗡𝗬𝗪𝗔𝗬 𝗠𝗗-𝗩𝟭 
@@ -7,7 +7,7 @@
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09">
-    <img alt=Support height="390" src="https://files.catbox.moe/jo8z5c.png"> 
+    <img alt=Support height="390" src="https://files.catbox.moe/ir4ejb.png"> 
     </p>
  
  
