@@ -1,9 +1,9 @@
 {
   "name": "ANYWAY-MD-V1",
   "description": "I am anyway-Md WhatsApp MultiDevice Bot built in NodeJs to enhance the experience",
-  "website": "https://session.giftedtech.my.id",
-  "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
-  "keywords": ["gifted-md", "giftedtech", "anyway-Md"],
+  "website": "https://anyway-0t9v.onrender.com/",
+  "logo": "https://files.catbox.moe/ir4ejb.png",
+  "keywords": ["anyway-md", "anywaytech", "anyway-Md"],
   "repository": "https://github.com/SIMON32883/ANYWAY-MD-V1",
   "success_url": "/",
   "stack": "container",
