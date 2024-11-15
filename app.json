@@ -1,6 +1,6 @@
 {
   "name":"ANYWAY-MD-V1",
-  "description":"Best whatsapp bot developed by mr anyway + Baraka Bega",
+  "description":"Best whatsapp bot developed by mr anyway ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/ir4ejb.png",
   "repository":"https://github.com/SIMON32883/MR-ANYWAY-MD",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"MR-ANYWAY-MD",
+      "value":"-ANYWAY-MD",
       "required":false
 
     } ,
@@ -81,7 +81,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255678892560,255762190568"
+    "value": "255678892560,"
   },
     "WARN_COUNT":
   {
