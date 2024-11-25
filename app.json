@@ -18,6 +18,12 @@
       "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value":"yes",
       "required":false
+	    },
+    "AUTO_LIKE_STATUS":
+    {
+      "description":"Your contact status will be reacting automatically(type yes to active or no to deactive  ; don't write in capital letter)",
+      "value":"yes",
+      "required":false
     }, "AUTO_DOWNLOAD_STATUS":
     {
       "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
