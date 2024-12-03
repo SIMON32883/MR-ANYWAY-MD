@@ -78,7 +78,7 @@ zokou({ nomCom: 'channel',
 );
 
 
-zokou({ nomCom: 'timnasagc',
+zokou({ nomCom: 'Anywaygc',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '🤓', 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'timnasagc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To follow WHATSAPP BOT  channeel * https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31`) 
+                 await repondre(`*Tap Here To follow ANYWAY TECH W  channeel * https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09`) 
 
    
 
@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_TIMNASA MD is running on its latest vision_*`) 
+                 await repondre(`*_ANYWAY MD is running on its latest vision_*`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_TIMNASA MD_*`) 
+                 await repondre(`*_ANYWAY MD-V1_*`) 
 
    
 
@@ -139,7 +139,7 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'timnasawagc',
+zokou({ nomCom: 'anywaywagc',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '♻️', 
@@ -150,7 +150,7 @@ zokou({ nomCom: 'timnasawagc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap To Join WhatsApp Bot Group* https://chat.whatsapp.com/Ia4V8wnwCIjLYaVI3FVHb4`) 
+                 await repondre(`*Tap To Join ANYWAY MD w Group* https://chat.whatsapp.com/HEUplJoCxJyECdlmf4a4MX`) 
 
    
 
@@ -188,8 +188,8 @@ zokou({ nomCom: 'hack2',
     "SENDING LOG DOCUMENTS...",
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
-    "POWERED BY HANS TECH",
-    "By HANS Tech`) 
+    "POWERED BY ANYWAY TECH",
+    "By ANYWAY Tech`) 
 
    
 
