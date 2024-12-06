@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30`) 
+                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09`) 
 
    
 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To Join YESSER MD Chatroom* https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv`) 
+                 await repondre(`*Tap Here To Join 𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃 Chatroom* https://chat.whatsapp.com/GUM0wglBlfo9WxCYWxEUJ9`) 
 
    
 
@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_YESSER MD🎁is running on its latest vision_*`) 
+                 await repondre(`*_𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃🎁is running on its latest vision_*`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_𝐛𝐨𝐭 𝐜𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝚈𝙴𝚂𝚂𝙴𝚁 𝚃𝙴𝙲𝙷🤠𝐯𝐢𝐬𝐢𝐨𝐧 𝐢𝐬 97162963^𝐬𝐯_*`) 
+                 await repondre(`*_𝐛𝐨𝐭 𝐜𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐀𝐍𝐘𝐖𝐀𝐘 𝐓𝐄𝐂𝐇😎𝐯𝐢𝐬𝐢𝐨𝐧 𝐢𝐬 97162963^𝐬𝐯_*`) 
 
    
 
@@ -188,8 +188,8 @@ zokou({ nomCom: 'hack',
     "SENDING LOG DOCUMENTS...",
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
-    "POWERED BY YESSER MD",
-    "By YESSER TECH`) 
+    "POWERED BY 𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃",
+    "By ANYWAY TECH`) 
 
    
 
@@ -212,7 +212,7 @@ zokou({ nomCom: '2025',
     const { ms, arg, repondre } = commandeOptions;
 
                  await repondre(`*_┏━━━━━━━━━━━━━•••
-┃   🤶𝗬𝗘𝗦𝗦𝗘𝗥 𝗠𝗗🎅
+┃   🤶𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃🎅
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 🤶 W̶I̶S̶H̶E̶S̶ Y̶O̶U̶ 𝘩𝘢𝘱𝘱𝘺 
