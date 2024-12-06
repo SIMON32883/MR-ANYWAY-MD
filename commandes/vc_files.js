@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30`) 
+                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09) 
 
    
 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To Join YESSER MD Chatroom* https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv`) 
+                 await repondre(`*Tap Here To Join 𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃 Chatroom* https://chat.whatsapp.com/GUM0wglBlfo9WxCYWxEUJ9) 
 
    
 
@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_YESSER MD🎁is running on its latest vision_*`) 
+                 await repondre(`*_𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃🎁is running on its latest vision_*`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_YESSER  MD_*`) 
+                 await repondre(`*_𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃_*`) 
 
    
 
@@ -162,7 +162,7 @@ zokou({ nomCom: 'cheka',
 zokou({ nomCom: 'hack2',
     desc: 'To check runtime',
     Categorie: 'My Contact',
-    reaction: '🤠', 
+    reaction: '5XN238AE😎', 
     fromMe: 'true', 
 
 
@@ -188,8 +188,8 @@ zokou({ nomCom: 'hack2',
     "SENDING LOG DOCUMENTS...",
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
-    "POWERED BY YESSER MD",
-    "By YESSER TECH`) 
+    "POWERED BY 𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃",
+    "By 𝐀𝐍𝐘𝐖𝐀𝐘 𝐓𝐄𝐂𝐇`) 
 
    
 
@@ -212,19 +212,19 @@ zokou({ nomCom: 'problem',
     const { ms, arg, repondre } = commandeOptions;
 
                  await repondre(`*_┏━━━━━━━━━━━━━━
-┃YESSER-MD 
+┃𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃 
 | 
 ┃   
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 YESSER TECH 𖥘
+❶ || Creator = 𖥘 𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30
+❷ || https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My YouTube Channel
 🌛 https://www.youtube.com/@Yesserboy92
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 YESSER TECH_*`) 
+©*2024-2099 𝐀𝐍𝐘𝐖𝐀𝐘 𝐓𝐄𝐂𝐇_*`) 
 
    
 
