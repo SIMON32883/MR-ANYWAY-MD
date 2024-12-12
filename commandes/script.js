@@ -38,7 +38,7 @@ const date = moment().format('DD/MM/YYYY');
      *ANYWAY MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/SIMON32883/MR-ANYWAY-MD
+> https://github.com/anywaytech2/ANYWAY-MD-V1
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09
