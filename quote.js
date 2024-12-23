@@ -51,14 +51,14 @@ module.exports = async (context) => {
     const { quote } = await response.json();
 
     const quoteMessage = `
-  ┏━━━ *KEITH-QUOTES* ━━━◆
+  ┏━━━ *ANYWAY-MD* ━━━◆
   ┃
   *◇* _${quote.body}_
   ┃
   ┃     *◇* *AUTHOR:* ${quote.author}
   ┃
   ╭──────────────◆
-  │ *_Powered by keithkeizzah._*
+  │ *_Powered by ANYWAY MD._*
   ╰──────────────◆
     `;
 
